@@ -17,9 +17,6 @@
 
 <br/><br/>
 
-<!-- ░░░ プロフィール閲覧数 ░░░ -->
-<img src="https://komarev.com/ghpvc/?username=matsubara457&label=%F0%9F%91%80%20%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E8%A6%8B%E3%82%89%E3%82%8C%E3%81%9F%E5%9B%9E%E6%95%B0&color=ff2d95&style=for-the-badge"/>
-
 </div>
 
 ---
