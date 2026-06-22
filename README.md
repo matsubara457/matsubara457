@@ -73,6 +73,20 @@ mindmap
 
 ---
 
+## ⏳ 開発者としてのタイムライン
+
+```mermaid
+timeline
+    title 🚀 これまでの歩み
+    コードを書き始める : プログラミングにハマる : 「動いた！」の感動
+    Web開発に挑戦 : TypeScript / Next.js : フロントもバックも
+    データの世界へ : Python / スクレイピング : データパイプライン構築
+    AI時代に突入 : Claude / LLM連携 : MCPサーバー開発
+    現在 : AIをこき使って量産 : まだまだ進化中 🔥
+```
+
+---
+
 ## 🛠️ 武器庫（使える道具たち）
 
 <div align="center">
@@ -83,6 +97,7 @@ mindmap
 | 🤖 **AI** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square&logoColor=white) |
 | ⚡ **フレームワーク** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | 🕷️ **データ** | ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🧰 **ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) |
 
 </div>
 
@@ -141,27 +156,31 @@ mindmap
 
 ---
 
-## 🎮 今日の運勢 & ひとくちネタ
+## 🎮 ステータス画面風プロフィール
 
-<div align="center">
-
-<!-- 毎日変わる開発者ジョーク -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=ff2d95" alt="Jokes Card"/>
-
-</div>
+```
+╔══════════════════════════════════════════════════╗
+║  PLAYER: matsubara457                    LV. ???   ║
+╠══════════════════════════════════════════════════╣
+║  🗡️  AI開発力        ████████████████████░  95%   ║
+║  🛡️  スクレイピング   ██████████████████░░  90%   ║
+║  ⚡  フルスタック     █████████████████░░░  85%   ║
+║  🧪  実験・遊び心     ████████████████████  100%  ║
+║  ☕  カフェイン耐性   ██████████████████░░  92%   ║
+╠══════════════════════════════════════════════════╣
+║  STATUS: 🔥 何か作ってる中    EQUIP: ☕ + ⌨️       ║
+╚══════════════════════════════════════════════════╝
+```
 
 ---
 
-## 💡 こんな時、声かけてください
+## 💭 開発者あるある（自己紹介を兼ねて）
 
-<div align="center">
-
-> 🤖 **「AIで何か自動化したい」** → 得意です  
-> 🕷️ **「このサイトのデータが欲しい」** → スクレイピングします  
-> ⚡ **「Web アプリ作りたい」** → フルスタックでいけます  
-> ☕ **「ただ雑談したい」** → コーヒー片手にどうぞ
-
-</div>
+> 🌙 **夜になると突然エンジンがかかる**  
+> ☕ **コーヒーが切れるとコードも止まる**  
+> 🤖 **エラーが出たら、まずAIに聞く**  
+> 🐍 **「とりあえず動かす」が信条**  
+> 🔁 **動いたコードは、なるべく触らない**
 
 ---
 
